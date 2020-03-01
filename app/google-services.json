@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1091715514689",
+    "firebase_url": "https://photo-browser-s.firebaseio.com",
+    "project_id": "photo-browser-s",
+    "storage_bucket": "photo-browser-s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091715514689:android:919ee2197b3710329521c0",
+        "android_client_info": {
+          "package_name": "com.aca.photobrowser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091715514689-lr0b5b0h6vau3548hb4e48ukr90qv5s3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aca.photobrowser",
+            "certificate_hash": "a9270dc49878e10471c84b0bccf872db5f1e2cd9"
+          }
+        },
+        {
+          "client_id": "1091715514689-fppd3jhec8316eod7k49ghncu0dt3qu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsjSTKA6F4A3xlRSknKglX8xcegPy9HbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091715514689-fppd3jhec8316eod7k49ghncu0dt3qu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity"
+    android:orientation="vertical"
+    android:background="#065A88">
+
+
+    <TextView
+        android:id="@+id/tv_photo_browser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Photo Browser"
+        android:textColor="#00DEF8"
+        android:textSize="48dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="56dp"/>
+
+
+    <EditText
+        android:id="@+id/et_username"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:hint="U  s  e  r  n  a  m  e"
+        android:textColorHint="#FFFFFF"
+        android:textColor="#FFFFFF"
+        android:textSize="28dp"
+        android:gravity="center"
+        android:layout_marginTop="64dp"/>
+
+    <EditText
+        android:id="@+id/et_password"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:hint="P  a  s  s  w  o  r  d"
+        android:textColorHint="#FFFFFF"
+        android:textColor="#FFFFFF"
+        android:textSize="28dp"
+        android:gravity="center"
+        android:layout_marginTop="32dp"
+        android:inputType="textPassword"/>
+
+
+    <Button
+    android:id="@+id/btn_login"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/shape"
+    android:text="Log In"
+    android:textColor="#FFF"
+    android:layout_gravity="center"
+    android:layout_marginTop="28dp"/>
+
+    <Button
+        android:id="@+id/btn_registration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape"
+        android:text="Registration"
+        android:textColor="#FFF"
+        android:layout_gravity="center"
+        android:layout_marginTop="28dp"
+        android:padding="10dp"/>
+
+
+
+
+
+
+
+
+</LinearLayout>
